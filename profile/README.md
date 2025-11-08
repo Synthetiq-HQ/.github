@@ -10,7 +10,7 @@
 
 **Synthetiq** is a collective of developers building software that blends creativity with precision.
 
-We build tools, apps, and systems that are synthetic in concept but human in execution — designed to shape how people create, connect, and build online.
+We build tools, apps, and systems that are synthetic in concept but human in execution designed to shape how people create, connect, and build online.
 
 ### 🔨 What We're Building
 
