@@ -4,6 +4,12 @@
 
 ---
 
+
+## 📚 Quick Links
+
+- [Privacy Policy](https://github.com/Synthetiq-HQ/privacy-policy)
+- [Terms of Use](https://github.com/Synthetiq-HQ/terms-of-use)
+
 ## 🚀 About Synthetiq
 
 **✅ BETA STAGE — NOW IN PUBLIC TESTING ✅**
@@ -48,10 +54,16 @@ An open-source offline party game where players deduce who the imposter is throu
 Simplified salon booking and management system.
 
 ---
-
+[[[[[[[[](url)](url)](url)](url)](url)](url)](url)](url)
 ## 🚧 In Development
 
 ### Synthetiq Invoice App
+**Status:** Coming Soon to iOS
+
+Generate professional, free invoices on the go. No subscriptions, no hidden fees — just a simple, powerful tool for freelancers and small businesses.
+
+
+[[](url)](url)[[](url)](url)[[[[](url)](url)](url)](url)### Synthetiq Invoice App
 **Coming Soon to iOS**
 
 Generate professional, free invoices on the go. No subscriptions, no hidden fees — just a simple, powerful tool for freelancers and small businesses.
@@ -89,7 +101,12 @@ Generate professional, free invoices on the go. No subscriptions, no hidden fees
 
 ## 🧑‍💻 Core Team
 
-- **Khubaib Shaikh** — Owner / Lead Developer
+[[[[[- [@MoKibz](https://github.com/MoKibz)
+- [@kas021](https://github.com/kas021)
+- [@Salax2](https://github.com/Salax2)
+- [@solaimanaljanadi](https://github.com/solaimanaljanadi)
+- [@Ghost-yyyy](https://github.com/Ghost-yyyy)
+](url)](url)](url)](url)](url)- **Khubaib Shaikh** — Owner / Lead Developer
 - **Ghost-yyyy** — Full-Stack Engineer
 - **Mohammed Ihtesham Kibria** — Developer
 - **Salax2** — Backend & Integration Specialist
