@@ -103,7 +103,7 @@ This rejection actually validates what we're fighting against. It's a system tha
 
 ## 👥 Core Team
 
-[@notcharliee](https://github.com/notcharliee) • [@Mester-Root](https://github.com/Mester-Root) • [@OhHiMork](https://github.com/OhHiMork) • [@suhaib-py](https://github.com/suhaib-py) • [@ajaypratap6277](https://github.com/ajaypratap6277)
+[@kas021](https://github.com/kas021) • [@Ghost-yyyy](https://github.com/Ghost-yyyy) • [@MoKibz](https://github.com/MoKibz) • [@Salav2](https://github.com/Salav2) • [@solaimanaljanaadi](https://github.com/solaimanaljanaadi)
 
 ---
 
