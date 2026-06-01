@@ -13,7 +13,7 @@
 
 Synthetiq builds offline-first, privacy-first software that is practical, sustainable, and user-focused. We design products with clear scope, keep dependencies minimal, and prefer local systems to reduce costs for everyone.
 
-Across Synthetiq Player and Synthetiq Invoices we currently serve 300+ active users, with the majority on Synthetiq Player due to its advanced server features.
+Across Synthetiq Player and Synthetiq Invoices we currently serve 2,000+ active users, with the majority on Synthetiq Player due to its advanced server features.
 
 ## Monetization Philosophy
 Our goal is to keep core functionality accessible. For complex apps we design a fully local system and rely very little on external services or APIs. Premium features (when offered) are priced responsibly and never hide required features behind a paywall.
