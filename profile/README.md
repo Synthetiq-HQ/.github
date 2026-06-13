@@ -1,60 +1,104 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1500&pause=1000&color=49FF7B&center=true&width=700&lines=Building+User-First+Applications;Creating+Privacy-Focused+Software;Developing+Offline-First+Solutions;No+Ads.+No+Subscriptions+(Ever)." alt="Typing SVG"/>
+  <h1>Synthetiq</h1>
+  <p><strong>Practical, privacy-first software from a UK studio.</strong></p>
+  <p>Local-first where possible. Clear scope. Responsible pricing. Tools that respect user data.</p>
 </div>
 
 ---
 
-## Quick Links
-- [Privacy Policy](https://github.com/Synthetiq-HQ/privacy-policy)
-- [Terms of Use](https://github.com/Synthetiq-HQ/terms-of-use)
+## Official Links
 
-## About Synthetiq
-**Beta stage — public testing**
+- Website: https://synthetiq.uk
+- Support: https://synthetiq.uk/support
+- Privacy Policy: https://synthetiq.uk/privacy
+- Terms of Use: https://synthetiq.uk/terms
+- Synthetiq Cloud Terms: https://synthetiq.uk/cloud-terms
+- Founder: https://khubaib.me
+- Support email: RKS.Limited.apps@gmail.com
 
-Synthetiq builds offline-first, privacy-first software that is practical, sustainable, and user-focused. We design products with clear scope, keep dependencies minimal, and prefer local systems to reduce costs for everyone.
+## About
 
-Across Synthetiq Player and Synthetiq Invoices we currently serve 2,000+ active users, with the majority on Synthetiq Player due to its advanced server features.
+Synthetiq builds practical software with a privacy-first, local-first mindset. The goal is to keep tools useful, focused, and understandable without unnecessary tracking, ads, or forced complexity.
 
-## Monetization Philosophy
-Our goal is to keep core functionality accessible. For complex apps we design a fully local system and rely very little on external services or APIs. Premium features (when offered) are priced responsibly and never hide required features behind a paywall.
+Our products are designed around a few simple principles:
 
-We do not show ads in simple utilities, and we do not force subscriptions for basic use.
+- Keep data on the user's device whenever possible.
+- Use cloud features only when they clearly help the product.
+- Keep core experiences accessible.
+- Price responsibly when premium features are needed.
+- Build focused tools instead of bloated platforms.
 
 ## Products
 
-### Synthetiq Player (Primary)
-Modern media player for your personal library. Supports local libraries with optional user-controlled server streaming.
+### Synthetiq Player
+
+Free-to-use modern iOS media player for anime, movies, personal video libraries, local playback, and media server support.
 
 - App Store: https://apps.apple.com/gb/app/synthetiq-player/id6757483803
 - Repository: https://github.com/Synthetiq-HQ/synthetiq-player
+- Help: https://synthetiq.uk/app-help
 
 ### Synthetiq Invoices
-Apple approved iOS invoicing tool designed for freelancers and small businesses. Works locally, with no accounts, no ads, and no subscription requirement.
+
+Privacy-first offline invoice generator for freelancers and small businesses, with no accounts, no servers, and no ads.
 
 - App Store: https://apps.apple.com/us/app/synthetiq-invoices/id6755254632
 - Repository: https://github.com/Synthetiq-HQ/Synthetiq-Invoices
 
-### Imposter Game
-Open-source web party game.
+### Synthetiq Redact
 
-- Web: https://github.com/Synthetiq-HQ/ImposterGameApp
+Local-first AI document redaction service for secure workflows.
 
-## Tech Stack
+- Repository: https://github.com/Synthetiq-HQ/synthetiq-redact
+
+### Synthetiq Voice
+
+Privacy-first local Windows dictation app using on-device speech-to-text.
+
+- Repository: https://github.com/Synthetiq-HQ/synthetiq-voice
+
+### PopStop
+
+Browser extension for blocking unwanted popups, redirects, and click-trapping overlays.
+
+- Repository: https://github.com/Synthetiq-HQ/popstop
+
+### Mizan
+
+Focused Islamic utility project by Synthetiq.
+
+- Repository: https://github.com/Synthetiq-HQ/mizan-made-by-synthetiq
+
+## Policies
+
+For user-facing policy pages, use the Synthetiq website:
+
+- Privacy Policy: https://synthetiq.uk/privacy
+- Terms of Use: https://synthetiq.uk/terms
+- Synthetiq Cloud Terms: https://synthetiq.uk/cloud-terms
+
+Canonical source repositories are also available:
+
+- Privacy source: https://github.com/Synthetiq-HQ/privacy-policy
+- Terms source: https://github.com/Synthetiq-HQ/terms-of-use
+- Cloud terms source: https://github.com/Synthetiq-HQ/synthetiq-cloud-terms
+
+## Support
+
+For support, email `RKS.Limited.apps@gmail.com` with the app name, device, and a short description of what happened.
+
+For public open-source projects, issues can also be reported in the relevant repository. If a report includes private screenshots, account data, device identifiers, or personal details, use email instead.
+
+## Tech We Use
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## Core Team
-[@kas021](https://github.com/kas021) • [@Ghost-yyyy](https://github.com/Ghost-yyyy) • [@MoKibz](https://github.com/MoKibz) • [@Salav2](https://github.com/Salav2) • [@solaimanaljanaadi](https://github.com/solaimanaljanaadi)
+## Contributing
 
-## Join Us
-We are always looking for contributors who value privacy-first, local-first software.
+We welcome useful issues, testing feedback, documentation improvements, and focused pull requests.
 
-### Ways to contribute
-- Help test builds
-- Open issues and propose improvements
-- Help write documentation
-- Collaborate on new lightweight tools
+Good contributions are clear, scoped, and practical.
